@@ -2,6 +2,10 @@
     margin: 0px;
 }
 
+body {
+    background: #f4f3f2;
+}
+
 #navbar {
     position: absolute;
     height: 100px;
@@ -108,13 +112,21 @@ div.primerbloque h2.subtituloPB2 {
     color: lightskyblue;
 }
 
-div.primerbloque img.playstore {
+div.primerbloque a.link2 img.playstore {
     width: 160px;
     height: 48px;
     margin-left: 10px;
 }
 
-div.primerbloque img.appstore {
+div.primerbloque a.link1 img.appstore {
     width: 160px;
     height: 48px;
+}
+
+div.primerbloque a.link1 {
+    text-decoration: none;
+}
+
+div.primerbloque a.link2 {
+    text-decoration: none;
 }
