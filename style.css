@@ -6,7 +6,7 @@
     position: absolute;
     height: 100px;
     width: 50%;
-    margin-left: 25%;
+    margin-left: 20%;
     background-color: transparent;
 }
 
@@ -75,4 +75,46 @@ div.fondo svg.svg1 {
     margin-left: 69.4%;
     margin-top: -0.4%;
 }
-  
+
+div.primerbloque {
+    position: absolute;
+    border-style: solid;
+    width: 50%;
+    margin-top: -26%;
+    height: 487px;
+    margin-left: 20%;
+}
+
+div.primerbloque h1.textoPB1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+}
+
+div.primerbloque h1.textoPB2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    color: #2AABD3;
+}
+
+div.primerbloque h2.subtituloPB1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    color: lightskyblue;
+}
+
+div.primerbloque h2.subtituloPB2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    color: lightskyblue;
+}
+
+div.primerbloque img.playstore {
+    width: 160px;
+    height: 48px;
+    margin-left: 10px;
+}
+
+div.primerbloque img.appstore {
+    width: 160px;
+    height: 48px;
+}
