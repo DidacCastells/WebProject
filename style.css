@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+}
+
+#navbar {
+    position: absolute;
+    height: 100px;
+    width: 50%;
+    margin-left: 25%;
+    background-color: transparent;
+}
+
+#navbar img.logo {
+    position: absolute;
+    width: 25%;
+    margin-top: 1.5%;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 50%;
+}
+
+#navbar a {
+    font-family:'Open Sans', sans-serif;
+    color: black;
+}
+
+#navbar a:hover {
+    color: lightgray;
+    transition: 0.2s;
+}
+
+#navbar a:focus {
+    color: lightblue;
+}
+
+#navbar a.features {
+    position: absolute;
+    text-decoration: none;
+    margin-left: 30%;
+    margin-top: 40px;
+}
+
+#navbar a.demo {
+    position: absolute;
+    text-decoration: none;
+    margin-left: 45.5%;
+    margin-top: 40px;
+}
+
+#navbar a.patrocinadors {
+    position: absolute;
+    text-decoration: none;
+    margin-left: 53%;
+    margin-top: 40px;
+}
+
+#navbar a.faq {
+    position: absolute;
+    text-decoration: none;
+    margin-left: 67%;
+    margin-top: 40px;
+}
+
+#navbar a.contacte {
+    position: absolute;
+    text-decoration: none;
+    margin-left: 73%;
+    margin-top: 40px;
+}
+
+div.fondo svg.svg1 {
+    margin-left: 69.4%;
+    margin-top: -0.4%;
+}
+  
