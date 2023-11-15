@@ -82,6 +82,18 @@ div.fondo svg.svg1 {
     margin-top: -0.4%;
 }
 
+div.phone {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    margin-top: -27%;
+    margin-left: 60%;
+}
+
+div.phone img {
+    width: 600px;
+}
+
 div.primerbloque {
     position: absolute;
     width: 50%;
