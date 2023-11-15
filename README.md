@@ -1,23 +1,20 @@
-Tu madre tiene una polla
-que ya la quisiera yo
+# MIS MOVIDAS DE LA UF1
+---
+## ¿Que coño es esto?
+Esto es el proyecto de la UF1 de Aplicaciones Web.
 
-me dio pena por tu padre
-el día en que se entero
+## ¿Como me lo descargo?
+Existe una cosa que se llama buscar en Google.
+Si aun asi no lo encuentras, tengo una cosa que darte.
+Aqui tienes tu [premio](Imgs/useless.png).
 
-que fue la noche de bodas
-¿Quién se iba a imaginar?
+---
+# UNPOPULAR OPINION
+VOX no deberia existir como partido politico y sus partidarios en la carcel por enaltecimiento al fascismo.
 
-que iba a ser a tu padre
-al quien lo iban a encular
-
-transexuaaaal!
-transexuaaaal!
-
-tu madre tiene muy grande el pene
-no se por queee
-
-nunca mas te podrás sentar
-como te coja por detrás
-
-tu madre tiene muy grande el pene
-es un transexuaaaal!
+---
+## Imagenes totalmente Out Of Context
+<img src="Imgs/aaah.png" alt="Goofy Ahh Pol Meroño" width="300"/>
+<img src="Imgs/guevo.jpg" alt="Goofy Ahh Pol Meroño" width="300"/>
+<img src="Imgs/roger.jpeg" alt="Goofy Ahh Pol Meroño" width="300"/>
+<img src="Imgs/meme.png" alt="Goofy Ahh Pol Meroño" width="300"/>
