@@ -129,3 +129,32 @@ div.primerbloque a.link1 {
 div.primerbloque a.link2 {
     text-decoration: none;
 }
+
+div.contadores {
+    border-style: solid;
+    position: absolute;
+    width: 850px;
+    height: 200px;
+    margin-left: 25%;
+}
+
+div.contadores div.contador {
+    width: 280px;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.contadores div.contador h3.count {
+    margin-top: 15%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    color: #2AABD3;
+}
+
+div.contadores div.contador p.descripcion {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    color: lightskyblue;
+    margin-left: 10px;
+}
