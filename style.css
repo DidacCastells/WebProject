@@ -1,9 +1,11 @@
 * {
-    margin: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 body {
     background: #f4f3f2;
+    overflow-x: hidden;
 }
 
 #navbar {
@@ -179,9 +181,9 @@ div.contadores div.linea2 {
 div.segundobloque {
     border-style: solid;
     position: absolute;
-    width: 50%;
+    width: 55%;
     margin-top: 15%;
-    height: 487px;
+    height: 500px;
     margin-left: 20%;
 }
 
