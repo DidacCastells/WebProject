@@ -175,3 +175,18 @@ div.contadores div.linea2 {
     margin-top: -17%;
     margin-left: 580px;
 }
+
+div.segundobloque {
+    border-style: solid;
+    position: absolute;
+    width: 50%;
+    margin-top: 15%;
+    height: 487px;
+    margin-left: 20%;
+}
+
+div.segundobloque h1.titulo {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 38px;
+    margin-left: 35%;
+}
