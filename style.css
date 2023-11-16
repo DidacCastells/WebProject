@@ -214,8 +214,43 @@ div.segundobloque div.lineadegradao {
 }
 
 div.segundobloque div.primeraparte {
-    border-style: solid;
     position: absolute;
     width: 100%;
     height: 400px;
+}
+
+div.segundobloque div.primeraparte div.punto {
+    position: absolute;
+    margin-top: 11.5%;
+    margin-left: 49%;
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+}
+
+div.segundobloque div.primeraparte h1.tituloSB1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    margin-left: 52%;
+    margin-top: 10%;
+}
+
+div.segundobloque div.primeraparte p.explicassao {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin-left: 49%;
+}
+
+div.segundobloque div.primeraparte svg {
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 2%;
+    opacity: 60%;
+}
+
+div.segundobloque div.primeraparte a.secreto1 img.movil2 {
+    position: absolute;
+    margin-top: -34%;
+    width: 400px;
 }
