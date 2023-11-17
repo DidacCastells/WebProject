@@ -307,3 +307,19 @@ div.segundobloque div.segundaparte img.movil34 {
     margin-left: 70%;
     margin-top: -10%;
 }
+
+div.segundobloque div.primeraparte img.puntos {
+    position: absolute;
+    z-index: -1;
+    width: 530px;
+    margin-top: -32%;
+    margin-left: -2%;
+}
+
+div.segundobloque div.segundaparte img.puntos2 {
+    position: absolute;
+    z-index: -1;
+    width: 530px;
+    margin-top: -16%;
+    margin-left: 55%;
+}
