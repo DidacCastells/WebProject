@@ -261,7 +261,6 @@ div.segundobloque div.primeraparte a.secreto1 img.movil2 {
     margin-top: -32%;
     width: 190px;
     margin-left: 15%;
-    transition: 105ms;
 }
 
 div.segundobloque div.segundaparte {
@@ -301,4 +300,11 @@ div.segundobloque div.segundaparte svg.blob2 {
     margin-left: 57%;
     margin-top: -5%;
     opacity: 60%;
+}
+
+div.segundobloque div.segundaparte img.movil34 {
+    position: absolute;
+    width: 390px;
+    margin-left: 60%;
+    margin-top: -15%;
 }
