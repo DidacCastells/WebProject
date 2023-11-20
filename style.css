@@ -1,3 +1,8 @@
+@font-face{
+    font-family: 'MonoCraft';
+    src: local('Fonts/Monocraft-nerd-fonts-patched.ttf');
+}
+
 * {
     margin: 0;
     padding: 0;
