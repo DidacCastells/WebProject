@@ -12,7 +12,7 @@ const updateDetails = (url, title, author) => {
 };
 
 const generateMeme = () => {
-  fetch("https://meme-api.com/gimme/gamingmemes")
+  fetch("https://meme-api.com/gimme/LMDshow")
     .then((response) => response.json())
     .then((data) => {
       updateDetails(data.url, data.title, data.author);
