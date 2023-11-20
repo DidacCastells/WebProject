@@ -369,3 +369,8 @@ div.tercerbloque1 video.rick {
     margin-left: 21%;
     margin-top: 3%;
 }
+
+div.segundaparte p.muchotexto a.secreto2 {
+    text-decoration: none;
+    color: black;
+}
