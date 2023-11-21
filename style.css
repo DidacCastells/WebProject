@@ -361,10 +361,12 @@ div.tercerbloque1 p.testo {
 }
 
 div.fondodegradao {
+    position: absolute;
     width: 1900px;
     height: 900px;
     margin-top: 1775px;
     background: linear-gradient(to bottom, rgb(40, 40, 233), lightskyblue);
+    z-index: -1;
 }
 
 div.tercerbloque1 video.rick {
@@ -378,4 +380,44 @@ div.tercerbloque1 video.rick {
 div.segundaparte p.muchotexto a.secreto2 {
     text-decoration: none;
     color: black;
+}
+
+div.tercerbloque2 {
+    border-style: solid;
+    position: absolute;
+    width: 1080px;
+    margin-top: 2100px;
+    height: 570px;
+    margin-left: 20%;
+}
+
+div.tercerbloque2 h1.tituloTB2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 46px;
+    color: #f4f3f2;
+    margin-left: 12%;
+}
+
+div.tercerbloque2 div.linea3 {
+    position: absolute;
+    width: 70px;
+    height: 10px;
+    margin-left: 45%;
+    margin-top: 3%;
+    border-radius: 30px;
+    background: linear-gradient(to right, rgb(90, 187, 247), rgb(255, 255, 255));
+}
+
+div.tercerbloque2 div.fotosapp {
+    border-style: solid;
+    position: absolute;
+    width: 100%;
+    height: 70%;
+    margin-top: 10%;
+}
+
+div.tercerbloque2 div.fotosapp img.foto1 {
+    position: absolute;
+    width: 185px;
+    margin-left: 120px;
 }
