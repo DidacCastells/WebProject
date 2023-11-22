@@ -383,9 +383,8 @@ div.segundaparte p.muchotexto a.secreto2 {
 }
 
 div.tercerbloque2 {
-    border-style: solid;
     position: absolute;
-    width: 1080px;
+    width: 1085px;
     margin-top: 2100px;
     height: 570px;
     margin-left: 20%;
@@ -409,7 +408,6 @@ div.tercerbloque2 div.linea3 {
 }
 
 div.tercerbloque2 div.fotosapp {
-    border-style: solid;
     position: absolute;
     width: 100%;
     height: 70%;
@@ -420,4 +418,74 @@ div.tercerbloque2 div.fotosapp img.foto1 {
     position: absolute;
     width: 185px;
     margin-left: 120px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 7px black;
+}
+
+div.tercerbloque2 div.fotosapp img.foto2 {
+    position: absolute;
+    width: 185px;
+    margin-left: 430px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 7px black;
+}
+
+div.tercerbloque2 div.fotosapp img.foto3 {
+    position: absolute;
+    width: 185px;
+    margin-left: 750px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 7px black;
+}
+
+div.cuartobloque {
+    position: absolute;
+    width: 50%;
+    height: 350px;
+    margin-left: 23%;
+    margin-top: 2700px;
+}
+
+div.cuartobloque h1.tituloCB1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 46px;
+    margin-left: 32%;
+}
+
+div.cuartobloque div.linea4 {
+    position: absolute;
+    width: 70px;
+    height: 10px;
+    margin-left: 45%;
+    margin-top: 2%;
+    border-radius: 30px;
+    background: linear-gradient(to right, lightskyblue, rgb(31, 31, 99));
+}
+
+div.cuartobloque p.textopatrocina {
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    width: 50%;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 24%;
+}
+
+div.cuartobloque p.nombrepatro {
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    width: 50%;
+    text-align: center;
+    margin-top: 17%;
+    margin-left: 24%;
+    color: blue;
+}
+
+div.cuartobloque img.patro1 {
+    position: absolute;
+    width: 75px;
+    margin-top: 22%;
+    margin-left: 44%;
 }
