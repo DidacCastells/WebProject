@@ -2,3 +2,23 @@
     margin: 0;
     padding: 0;
 }
+
+div.portada {
+    position: absolute;
+    width: 1920px;
+    height: 700px;
+    background:linear-gradient(to bottom, #b09fe4, pink);
+}
+
+div.portada h1.titulopagina {
+    font-size: 46px;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
+
+div.portada p.algo {
+    margin-top: -15px;
+    font-size: 26px;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
