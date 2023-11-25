@@ -48,4 +48,11 @@ div.abajo img.dosporuno {
     width: 150px;
     height: 150px;
     margin-left: -28%;
+    transition: 1s;
+}
+
+div.abajo img.dosporuno:hover {
+    width: 200px;
+    height: 200px;
+    transition: 1s;
 }
